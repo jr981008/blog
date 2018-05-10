@@ -1,7 +1,7 @@
 #encoding: utf-8
 defaults: &defaults
   blog:
-    domain: http://localhost:3000
+    domain: http://0.0.0.0:80
     aritcle_page_size: 10
     comments_page_size: 10
   mailer:
